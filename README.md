@@ -212,6 +212,6 @@ sudo crontab -e
 #### Adicionar a seguinte linha
 */5 * * * * /usr/local/bin/teste_apache.sh
 
-### Garantido que o contrab inicie junto com a maquina mesmo que a reinicie ou delligue
+### Garantido que o contrab inicie junto com a maquina mesmo que a reinicie ou desligue
 sudo systemctl enable crond
 

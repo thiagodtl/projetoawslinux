@@ -27,7 +27,7 @@ Clicar **Criar VPC**.
 **Selecionar "Somente VPC"**
 Preencher conforme sua necessidade:
    - **Tag de nome**: `minha-vpc`
-   - **Marcar** `"Entrada manudla de CIDR IPv4"`
+   - **Marcar** `"Entrada manual de CIDR IPv4"`
    - **CIDR IPv4**: `10.0.0.0/24`
    - **Marcar** `"Nenhum bloco CIDR IPv6"`
 **Adicionar tag, se for sua necessidade.**
@@ -49,7 +49,7 @@ Clique em **Criar sub-rede**.
 No painel de VPC, clique em **Internet Gateways** e depois em **Criar gateway da internet**.
 ![image](https://github.com/user-attachments/assets/8b2bd206-92b7-4ed9-b885-4c2d975fe09d)
 
-Nomeie o gateway como  desejar `minha-igw`.
+Nomeie o gateway como  desejar.
 Depois de criar, precisamos associa-lá à uma VPC, selecione o Gateway criado e depois vá em **Ações** e depois **Associar à VPC**.
 ![image](https://github.com/user-attachments/assets/578cfe64-e881-4ce6-b234-19e524f35c23)
 

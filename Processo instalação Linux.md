@@ -37,11 +37,11 @@ Nesse caso, vamos escolher **Install**
 - **Particionar o disco**
 Aqui escolheremos **Manual**
 
-### Seleciona-se o disco rigido e será criada 4 partições
-**1) 300mb de espaço, primária e o ponto de montagem será o /boot**
-**2) 20gb de espaço, primária e o ponto de montagem será /**
-**3) 11gb de espaõ, primária e o ponto de montagem será /home**
-**4) 1.1gn de espaço, primária, clicar em "usuar como" e mudar a partição para "swap"**
+### Seleciona-se o disco rigido e será criada 4 partições <br>
+**1) 300mb de espaço, primária e o ponto de montagem será o /boot** <br>
+**2) 20gb de espaço, primária e o ponto de montagem será /** <br>
+**3) 11gb de espaõ, primária e o ponto de montagem será /home** <br>
+**4) 1.1gn de espaço, primária, clicar em "usuar como" e mudar a partição para "swap"** <br>
 
 #### A simulação acima foi feita com base num HD com 30gb.
 

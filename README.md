@@ -11,7 +11,6 @@
 ### Criando um Par de Chaves
 No Console AWS, navegue até **EC2** e clique em **Pares de Chaves** no painel esquerdo, na seção **Rede e Segurança**
 Clique em **Criar par de chaves**. <br>
-![image](https://github.com/user-attachments/assets/d1b6f5dd-aa0d-4645-872f-d6fefd231b4d) <br>
 Nomeie a chave como desejar. <br>
 Escolha o formato `pem` para Linux/macOS ou `ppk` para Windows.
 Clique em **Criar par de chaves** e o arquivo será baixado automaticamente.

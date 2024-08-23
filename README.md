@@ -68,11 +68,12 @@ Salve as alterações.
 
 ## 🖥️ Criando uma Instância EC2
 
-### Configuraando e executando a Instância EC2
+### Configurando e executando a Instância EC2
 No Console AWS, navegue até **EC2** e clique em **Instâncias**.
 Clique em **Executar Instâncias**.
 Selecione **Amazon Linux 2 AMI**.
-![image](https://github.com/user-attachments/assets/66000038-d087-4e4a-a229-1b0e7ddd3a26)
+![image](https://github.com/user-attachments/assets/3235a8bd-34ab-4a2c-92a4-80859bde8a3c)
+
 
 Escolha a família **t3.small** como tipo de instância.
 Configure os detalhes da instância:

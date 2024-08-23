@@ -24,6 +24,7 @@ Clique em **Criar par de chaves** e o arquivo será baixado automaticamente.
 ### Criando uma VPC para ter acesso a internet 
 Acessar o Painel VPC.
 Clicar **Criar VPC**.
+
 [image](https://github.com/user-attachments/assets/4728e760-f281-4ab3-8467-459ad1bf594a)
 
 **Selecionar "Somente VPC"**

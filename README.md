@@ -96,6 +96,9 @@ Configure o **Grupo de Segurança**:
      - **443/TCP**: Para HTTPS
 Depois de tudo configurado, clique em **Executar Instância**.
 
+![image](https://github.com/user-attachments/assets/2f58bc08-789e-4688-aa42-09770826e879)
+
+
 ## 🌐 Gerar um Elastic IP e Anexar à Instância EC2
 
 No Console AWS, navegue até **EC2** e clique em **Rede e segurança** e depois em **IPs elásticos** no painel esquerdo.

@@ -15,6 +15,9 @@ Nomeie a chave como desejar. <br>
 Escolha o formato `pem` para Linux/macOS ou `ppk` para Windows.
 Clique em **Criar par de chaves** e o arquivo será baixado automaticamente.
 
+![image](https://github.com/user-attachments/assets/2df7a11a-f7a4-4ca9-9194-b41044a332ec)
+
+
 
 ## 🛠️ Criar uma VPC e Subnets
 

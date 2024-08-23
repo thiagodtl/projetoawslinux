@@ -25,7 +25,8 @@ Clique em **Criar par de chaves** e o arquivo será baixado automaticamente.
 Acessar o Painel VPC.
 Clicar **Criar VPC**.
 
-[image](https://github.com/user-attachments/assets/4728e760-f281-4ab3-8467-459ad1bf594a)
+![image](https://github.com/user-attachments/assets/38adea21-8904-4895-ad93-1069f0e343c5)
+
 
 **Selecionar "Somente VPC"**
 Preencher conforme sua necessidade:

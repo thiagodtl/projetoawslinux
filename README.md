@@ -103,7 +103,9 @@ Depois de tudo configurado, clique em **Executar Instância**.
 
 No Console AWS, navegue até **EC2** e clique em **Rede e segurança** e depois em **IPs elásticos** no painel esquerdo.
 Clique em **Alocar endereço de IP elástico**.
-![image](https://github.com/user-attachments/assets/ced50cc3-ecb4-4e26-86dd-28fa2a08a303)
+
+![image](https://github.com/user-attachments/assets/d04dea93-d2e1-45cd-83fe-0285e431429a)
+
 
 Marque a opção **Conjunto de endereços IPv4 da Amazon** e depois clique em **Alocar**
 
